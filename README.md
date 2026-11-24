@@ -16,7 +16,7 @@ intentos válidos y una visualización construida en Power BI.
 
 - El Mate Pastor tiene una efectividad del 4,4 %: funciona en 1 de cada 23 intentos.
 - La efectividad cae del 7,0 % en ELO 1000 al 3,2 % en ELO 1700.
-- Cuando falla, sale caro: si el ataque se defiende, las blancas ganan solo el 45,0 %
-  de las partidas, frente al 49,8 % habitual, y la ventaja pasa a las negras.
+- Cuando el ataque se defiende, las blancas ganan solo el 45,0 % de las partidas,
+  frente al 49,8 % habitual, y la ventaja pasa a las negras.
 
 La metodología completa está disponible en la [documentación del análisis (PDF)](documentacion/analisis-efectividad-mate-pastor.pdf).
